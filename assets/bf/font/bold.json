@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "bf:bold.ttf",
+      "shift": [
+        -0.1,
+        1.2
+      ],
+      "size": 10.0,
+      "oversample": 10.0,
+      "skip": ""
+    },
+    {
+      "type": "bitmap",
+      "file": "bf:font/font_patches.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+          "öüä"
+        ]
+    }
+  ]
+}

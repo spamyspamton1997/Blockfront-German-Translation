@@ -1,1 +1,2 @@
-we are creating here other translations for the minecraft mod blockfront
+# Additonal Translations for [Blockfront](https://www.blockfrontmc.com/)
+This pack aims to provide additional translations for the Blockfront mod
