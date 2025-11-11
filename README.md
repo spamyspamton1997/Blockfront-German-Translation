@@ -1,1 +1,1 @@
-i am creating here the german translation for the minecraft mod blockfront
+we are creating here other translations for the minecraft mod blockfront
