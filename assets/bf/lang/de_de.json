@@ -4,7 +4,7 @@
   "bf.cloud.auth.error.message.unknown": "Unbekannter Fehler",
   "bf.cloud.auth.error.title": "Authentifizierungs Fehler",
   "bf.cloud.message.connection.established": "Die Verbindung zur Cloud wurde verifiziert & anerkannt!",
-  "bf.cloud.message.connection.lost": "Die Verbind zur Cloud wurde Unterbrochen!",
+  "bf.cloud.message.connection.lost": "Die Verbindung zur Cloud wurde Unterbrochen!",
   "bf.cloud.message.punish.fail.null": "Fehler beim abrufen deiner Spielerdaten! Versuche es erneut.",
   "bf.cloud.message.punish.fail.permission": "Du hast nicht die Rechte um einen Spieler zu Bestrafen!",
   "bf.cloud.message.punish.fail.staff": "Du kannst diesen Spieler nicht bestrafen! bist du ein Moderator?",
@@ -32,8 +32,8 @@
   "bf.cloud.notification.achievement.unlocked": "du hast einen neuen Erfolg freigeschaltet! (%s)",
   "bf.cloud.notification.achievement.unlocked.server": "%s hat den Erfolg '%s' freigeschaltet! (%s/%s)",
   "bf.cloud.notification.achievement.unlocked.reward": "Belohnung für Erfolg: '%s'",
-  "bf.cloud.notification.achievement.unlocked.reward.fail.full": "Erfolgsbelohnung konnte nicht erhalten werden! (Inventar ist Voll!)",
-  "bf.cloud.notification.booster.activate.fail.toomany": "Zu viele Booster sind Aktiv! Versuche es Später nochmal.",
+  "bf.cloud.notification.achievement.unlocked.reward.fail.full": "Erfolgsbelohnung konnte nicht erhalten werden! (Inventar ist voll!)",
+  "bf.cloud.notification.booster.activate.fail.toomany": "Zu viele Booster sind aktiv! Versuche es Später nochmal.",
   "bf.cloud.notification.booster.activate.success": "Booster wurde erfolgreich aktiviert! Viel Spaß!",
   "bf.cloud.notification.bootcamp.complete": "DU hast das Bootcamp erfolgreich bestanden! Gratulation!",
   "bf.cloud.notification.case.need.key": "du benötigst einen %s Schlüssel um es zu Öffnen!",
@@ -2289,5 +2289,6 @@
   "bf.tab.shutters": "%s Fensterläden"
 
 }
+
 
 
