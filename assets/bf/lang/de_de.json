@@ -520,7 +520,7 @@
   "bf.menu.patreon.title": "Patreon",
   "bf.menu.patreon.description": "Link your Patreon account to support the development and unlock exclusive features.",
   "bf.menu.patreon.tooltip": "Click to link your Patreon account",
-  "bf.menu.patreon.visit.tooltip": "Unterstürze uns auf Patreon",
+  "bf.menu.patreon.visit.tooltip": "Unterstütze uns auf Patreon",
   "bf.menu.events.description": "Both community and official events taking place!",
   "bf.menu.events.loading": "Loading Events...",
   "bf.menu.events.none": "No Events Available",
@@ -813,7 +813,7 @@
   "bf.message.game.match.summary.progress.exp.earned": "Erhalten",
   "bf.message.game.match.summary.progress.exp.promoted": "BEFÖRDERT!",
   "bf.message.game.match.summary.progress.subtitle": "Dein Fortschritt",
-  "bf.message.game.match.summary.progress.subtitle.tip": "Dein Rangvortschritt von diesem match",
+  "bf.message.game.match.summary.progress.subtitle.tip": "Dein Rangfortschritt von diesem match",
   "bf.message.gamemode.afk.reset": "Du bist nicht mehr AFK",
   "bf.message.gamemode.afk.time": "Du bist schon AFK seit %s minute(n)! Bewege dich %s blöcke um zu verhindern dass du Gekickt wirst!",
   "bf.message.gamemode.afk.kick": "You have been kicked for being AFK for too long!",
@@ -2289,6 +2289,7 @@
   "bf.tab.shutters": "%s Fensterläden"
 
 }
+
 
 
 
